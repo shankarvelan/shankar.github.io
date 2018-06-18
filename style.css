@@ -1,0 +1,57 @@
+body{
+	margin:0px;
+	 background-image: url("1.jpg");
+	 background-position:top;
+	background-repeat: no-repeat;
+   
+}
+.navbar-inverse{
+	background:darkblue;
+	font-weight:bold;
+	
+	
+}
+.dropdown{
+	background-color:yellow;
+}
+
+ul li a:hover{
+	color:darkblue;
+	font-weight:bold;
+	text-decoration:none;
+	font-size:20px;
+	
+}
+
+.navbar-brand
+{
+	font-weight:bold;
+	font-size:30px;
+	
+	
+}
+
+.active a:hover{
+	color:skyblue;
+	font-weight:bold;
+	font-size:20px;
+}
+h1{
+	float:left;
+	font-weight:bold;
+	font-size:50px;
+}
+p{
+font-size:30px;
+}
+
+	
+
+	
+
+.btn-primary{
+	font-weight:bold;
+}
+.fa-angle-right{
+	color:yellow;
+}
